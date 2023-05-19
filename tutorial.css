@@ -1,0 +1,23 @@
+@media (prefers-reduced-motion: no-preference) {
+    * {
+  scroll-behavior: smooth;
+    }
+  }
+  
+  #navbar{
+  position: fixed;
+  top:0;
+  left:0;
+  border-right: solid;
+  height: 100%;
+  width: 190px;
+  }
+  
+  header{
+    margin-top: 40px;
+    margin-left: 40px;
+  }
+  #main-doc{
+    margin: 10px 120px 120px 170px;
+    padding: auto;
+  }
